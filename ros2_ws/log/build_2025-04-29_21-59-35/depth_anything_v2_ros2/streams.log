@@ -1,0 +1,17 @@
+[0.572s] Invoking command in '/home/aleksantari/projects/snake_robot/ros2_ws/build/depth_anything_v2_ros2': PS1=(snake_robot_env) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/aleksantari/projects/snake_robot/ros2_ws/build/depth_anything_v2_ros2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aleksantari/projects/snake_robot/ros2_ws/install/depth_anything_v2_ros2/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(snake_robot_env) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/aleksantari/projects/snake_robot/ros2_ws/build/depth_anything_v2_ros2/build --no-deps symlink_data
+[0.719s] running develop
+[0.807s] running egg_info
+[0.808s] writing depth_anything_v2_ros2.egg-info/PKG-INFO
+[0.808s] writing dependency_links to depth_anything_v2_ros2.egg-info/dependency_links.txt
+[0.808s] writing entry points to depth_anything_v2_ros2.egg-info/entry_points.txt
+[0.808s] writing requirements to depth_anything_v2_ros2.egg-info/requires.txt
+[0.808s] writing top-level names to depth_anything_v2_ros2.egg-info/top_level.txt
+[0.809s] reading manifest file 'depth_anything_v2_ros2.egg-info/SOURCES.txt'
+[0.809s] writing manifest file 'depth_anything_v2_ros2.egg-info/SOURCES.txt'
+[0.810s] running build_ext
+[0.810s] Creating /home/aleksantari/projects/snake_robot/ros2_ws/install/depth_anything_v2_ros2/lib/python3.10/site-packages/depth-anything-v2-ros2.egg-link (link to .)
+[0.811s] Installing depth_anything_v2_ros2 script to /home/aleksantari/projects/snake_robot/ros2_ws/install/depth_anything_v2_ros2/lib/depth_anything_v2_ros2
+[0.811s] 
+[0.811s] Installed /home/aleksantari/projects/snake_robot/ros2_ws/build/depth_anything_v2_ros2
+[0.811s] running symlink_data
+[0.830s] Invoked command in '/home/aleksantari/projects/snake_robot/ros2_ws/build/depth_anything_v2_ros2' returned '0': PS1=(snake_robot_env) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/aleksantari/projects/snake_robot/ros2_ws/build/depth_anything_v2_ros2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aleksantari/projects/snake_robot/ros2_ws/install/depth_anything_v2_ros2/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(snake_robot_env) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/aleksantari/projects/snake_robot/ros2_ws/build/depth_anything_v2_ros2/build --no-deps symlink_data
