@@ -2,7 +2,7 @@ depth_anything:
   ros__parameters:
     # Model configuration
     model_file : ''
-    encoder: vitb
+    encoder: vits
     device : 'cuda:0'
     # ROS topic configuration
     image_topic: /image_raw

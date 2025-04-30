@@ -25,4 +25,5 @@ depth_anything_v2_ros2.egg-info/top_level.txt
 depth_anything_v2_ros2.egg-info/zip-safe
 launch/default.launch.py
 models/depth_anything_v2_vitb.pth
+models/depth_anything_v2_vits.pth
 resource/depth_anything_v2_ros2

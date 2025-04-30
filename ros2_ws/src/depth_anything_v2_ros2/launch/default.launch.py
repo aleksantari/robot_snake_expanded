@@ -19,7 +19,7 @@ def generate_launch_description():
     # Getting directories and launch-files
     depth_anything_dir = get_package_share_directory('depth_anything_v2_ros2')
     default_params_file = os.path.join(depth_anything_dir, 'config', 'params.yaml')
-    default_model_file = os.path.join(depth_anything_dir, 'models', 'depth_anything_v2_vitb.pth')
+    default_model_file = os.path.join(depth_anything_dir, 'models', 'depth_anything_v2_vits.pth')
 
     # Input parameters declaration
     params_file = LaunchConfiguration('params_file')
