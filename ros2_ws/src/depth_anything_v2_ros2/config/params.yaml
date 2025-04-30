@@ -5,5 +5,5 @@ depth_anything:
     encoder: vits
     device : 'cuda:0'
     # ROS topic configuration
-    image_topic: /image_raw
-    depth_image_topic : /depth
+    image_topic: /image_segmented
+    depth_image_topic : /image_depth
