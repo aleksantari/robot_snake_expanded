@@ -1,0 +1,29 @@
+# Core CV/ML
+torch==2.3.0
+torchvision==0.18.0
+opencv-python
+open3d
+numpy
+scipy
+scikit-learn
+
+# ROS2 related python packages (pure python only)
+colcon-common-extensions
+rosdep
+
+# Visualization / Debugging
+matplotlib
+jupyterlab
+notebook
+
+# Tracking packages you may use later
+mediapipe
+ultralytics
+
+# 3D Reconstruction tools (optional future additions)
+pycolmap
+pyceres
+
+# Utils
+tqdm
+pyyaml
